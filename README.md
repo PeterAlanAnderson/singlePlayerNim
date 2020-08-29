@@ -18,3 +18,10 @@
 4. Follow the instructions on like 3 to give the AI a name
 5. Comment out the code for the current takeTurn() function
 6. Comment in the code for the new takeTurn() function
+7. Bonus points for making code that's easy to read
+
+##  How Does Nim Work?
+
+This version of the game is played with 3 piles of coins.  Players take turns choosing a single pile and removing any number of coins from that pile.  The player who removes the final coin wins.  
+
+https://www.youtube.com/watch?v=Kg1-x26NRo8
